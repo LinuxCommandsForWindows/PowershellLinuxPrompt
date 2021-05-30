@@ -8,7 +8,7 @@ It is recommended to put the source code of the PowerShell file in this reposito
 To get the *correct* location of the PowerShell profile, you can use the `$PROFILE` variable. 
 
 I prefer to put the profile file in the `$PROFILE.AllUsersCurrentHost` location, which should be
-`C:\Windows\System32\WindowsPowerShell\v1.0\Microsoft.PowerShell_profile.ps1` on all Windows installations which do
+`C:\Windows\System32\WindowsPowerShell\v1.0\Microsoft.PowerShell_profile.ps1` on most Windows installations which do
 have PowerShell installed.
 
 You need to restart your PowerShell session after modifying the profile.
