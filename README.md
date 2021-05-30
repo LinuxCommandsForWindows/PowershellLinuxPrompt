@@ -23,4 +23,4 @@ Where `user` is your current logged in user and `windows10` is the computer name
 
 ## License
 
-The source code is licensed with the MIT License.
+The source code is licensed under the MIT License.
