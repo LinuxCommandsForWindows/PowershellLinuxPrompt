@@ -19,6 +19,11 @@ You need to restart your PowerShell session after modifying the profile.
 user@windows10:/mnt/c/users/user$
 ```
 
+## Notes
+
+The usual drives letters on Windows represented as strings on this prompt are replaced with `/mnt/<drive letter to ascii lowercase>`
+for a more Linux-ish feel.
+
 Where `user` is your current logged in user and `windows10` is the computer name.
 
 ## License
